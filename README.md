@@ -1,4 +1,3 @@
-# CRVQ
-Code and ckpts of CRVQ
-
-This repo will be pushed before 20th, Aug.
+conda create -n CRVQ python=3.10
+conda activate CRVQ
+pip install -r requirements.txt
